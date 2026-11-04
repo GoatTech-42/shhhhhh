@@ -10,13 +10,7 @@
 </p>
 
 ### Join Discord：https://discord.gg/TPjtZt75Vs
-## Zelix Pty has filed a DMCA takedown notice against this repository, and it will be taken down shortly. Please download and archive it as soon as possible (forks will also be affected by the DMCA takedown), and join our Discord!
-
-## chinese：有死妈向Zelix Pty提交了本repository的DMCA，该repository将在不久后被击落，请尽快下载存档(注意 fork 依然会被DMCA下架) 并且加入我们的discord！！！
-
-youtube：【ZelixKlassMaster27 fully deobf+idea ready】 https://youtu.be/GhLJreiEuCU
-
-bilibili：【最新最热 zkm 27 原始码泄露视频 开源去验证可直接构建】 https://www.bilibili.com/video/BV1Eyhd6zE1Y/
+## Zelix Pty is chud so i made a fork
 
 ## requirements
 
@@ -70,7 +64,7 @@ java -jar build/libs/zkm27.jar script.zkm
 ## thx
 
 - **original obfuscated software:** Zelix KlassMaster 27.0.0
-- **some deobfuscation, symbol recovery, rename, mapping:** completed by Claude™ and Codex™ under human supervision
+- **some deobfuscation, symbol recovery, rename, mapping:** completed by nothing™ and something™ under human supervision
 - **flowdeobf, indydeobf, deobf tools:** NoHackClient™
 - **Java Deobfuscator**
 - **Recaf**
